@@ -1,0 +1,22 @@
+{
+  "name": "kellybrady/wp-popup-maker",
+  "description": "test package for seeing if security vulnerabilities exist.",
+  "license": "SEE LICENSE IN LICENSE",
+  "authors": [
+    {
+      "name": "Radley Anaya",
+      "email": "radley.anaya@kellybrady.com",
+      "homepage": "https://kellybrady.com",
+      "role": "Web Developer"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=7.1",
+    "composer/installers": "v1.0.6"
+  },
+  "autoload": {
+    "psr-4": {
+    }
+  }
+}
